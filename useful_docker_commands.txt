@@ -1,0 +1,19 @@
+Docker commands to use the docker container - 
+
+1. After creating a Dockerfile we have to build a docker image using Dockerfile - 
+
+    docker build -t allindor_app .
+
+2. Testing our docker Image locally - 
+
+    docker run -p 8080:8080 allindor_app
+
+3. After testing our docker Image, we have to tag docker Image -
+
+    docker tag allindor_app gcr.io/calm-cairn-292101/allindor_app
+
+4. After tagging our docker image we have to pust it to GCR - 
+
+    docker push gcr.io/calm-cairn-292101/allindor_app
+
+5. After pusing it to GCR we have to deploy it, for that we can use the command of deploy_google_cloud_run.sh
