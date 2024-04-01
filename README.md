@@ -27,8 +27,8 @@ python -m pip install -r requirements.txt --no-cache-dir
 
 ***Step 1: Clone the Repository***
 
-1. git clone https://github.com/your-username/your-repo-name.git
-2. cd your-repo-name
+1. git clone https://github.com/viper-108/alindor_task.git
+2. cd alindor_task
 
 ***Step 2: Install Dependencies***
 
